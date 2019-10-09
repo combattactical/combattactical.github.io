@@ -21,4 +21,10 @@ a {
 	margin-right: 50px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-size: 20px;
+	
+}
+
+p {
+	color: #FFFFFF;
+	margin-left: 150px;
 }
